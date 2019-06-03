@@ -1,0 +1,38 @@
+body {
+  background-color: #29282D;
+	height: 200px;
+    width: 400px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px
+}
+
+a {
+  color:#D72C2C;
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+}
+
+h1 {
+  color:#171664;
+  font-family: 'Sacramento', cursive;
+  font-size: 42px;
+}
+
+h3 {
+  color:#2c3e50;
+  font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+  color:#c23616;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+  color:#2c3e50;
+  font-family: 'Oswald', sans-serif;
+}
